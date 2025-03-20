@@ -17,3 +17,7 @@ int main() {
     printf("Área em Km²: %.2f quilometros quadrado\n", area);
     printf("PIB: %.2f bilhoes de reais\n", pib);
     printf("Números de pontos Turísticos: %d\n", numeropontosTuristicos);
+
+return 0;
+
+}
